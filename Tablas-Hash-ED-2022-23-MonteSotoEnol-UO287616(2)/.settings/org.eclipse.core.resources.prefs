@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+encoding//src/hash/AbstractHash.java=UTF-8
+encoding//src/hash/ClosedHashTableConRedispersion.java=UTF-8
+encoding//src/hash/ClosedHashTableSinRedispersionTest.java=UTF-8

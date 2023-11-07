@@ -1,2 +1,6 @@
 # ed-estructuras-de-datos-2022
- Proyectos para ED [GIISOF, Uniovi]
+Se incluyen los siguientes proyectos:
+- Algoritmia
+- Grafos
+- Árboles
+- Tablas Hash
