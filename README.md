@@ -4,3 +4,4 @@ Se incluyen los siguientes proyectos:
 - Grafos
 - Árboles
 - Tablas Hash
+Además, se incluye la documentación de cada proyecto (Javadoc).
